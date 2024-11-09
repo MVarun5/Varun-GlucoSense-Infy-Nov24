@@ -1,1 +1,1 @@
-# GlucoSense: AI-Powered Diabetes Detection for Early Inervention Project Intern
+# GlucoSense: AI-Powered Diabetes Detection for Early Intervention Project Intern

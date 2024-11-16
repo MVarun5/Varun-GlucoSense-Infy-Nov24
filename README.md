@@ -38,3 +38,13 @@ The dataset includes a variety of health indicators, including:
 - Alcohol Consumption
 - Diet Type
 - Diabetes Status (Target Variable)
+
+<h2>Setup and Requirements</h2>
+
+To run this project locally, ensure you have the following dependencies installed:
+
+- Python 3.x
+- Pandas: For data manipulation
+- NumPy: For numerical computations
+- Matplotlib and Seaborn: For data visualization
+- Scikit-learn: For machine learning algorithms and evaluation metrics

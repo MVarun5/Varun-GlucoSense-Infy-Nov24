@@ -25,14 +25,14 @@ The dataset includes a variety of health indicators, including:
 
 - Age
 - Gender
-- BMI (Body Mass Index)
-- Blood Pressure (Systolic/Diastolic)
-- Glucose Level
-- HbA1c Level
-- Insulin Level
-- Diabetes Pedigree
-- Physical Activity Level
-- Family History of Diabetes
+- Polyuria
+- Polydipsia
+- sudden weight loss
+- weakness
+- Polyphagia
+- Genital thrush
+- visual blurring
+- Itching
 - Cholesterol Levels
 - Smoking Status
 - Alcohol Consumption

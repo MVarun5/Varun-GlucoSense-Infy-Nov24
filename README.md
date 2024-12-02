@@ -33,10 +33,12 @@ The dataset includes a variety of health indicators, including:
 - Genital thrush
 - visual blurring
 - Itching
-- Cholesterol Levels
-- Smoking Status
-- Alcohol Consumption
-- Diet Type
+- Irritability
+- delayed healing
+- partial paresis
+- muscle stiffness
+- Alopecia
+- Obesity
 - Diabetes Status (Target Variable)
 
 <h2>Setup and Requirements</h2>

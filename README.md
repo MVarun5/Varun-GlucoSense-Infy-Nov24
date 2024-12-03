@@ -23,7 +23,7 @@ GlucoSense is an innovative, AI-driven platform developed to enable early detect
 
 The dataset includes a variety of health indicators, including:
 
-- Age
+- Age (numerical data)
 - Gender
 - Polyuria
 - Polydipsia

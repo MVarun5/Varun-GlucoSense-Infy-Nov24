@@ -41,7 +41,7 @@ The dataset includes a variety of health indicators, including:
 - Obesity
 - Diabetes Status (Target Variable)
 
-<h2> Setup and Requirements </h2>
+<h2> Libraries and Frameworks </h2>
 
 To run this project locally, ensure you have the following dependencies installed:
 
@@ -53,3 +53,7 @@ To run this project locally, ensure you have the following dependencies installe
 
 <h2> License </h2>
 This project is licensed under the <b> MIT License </b>. 
+
+<h2> Acknowledgments </h2>
+The dataset used is sourced from reliable and publicly available resources.
+Thanks to the open-source community for providing essential tools and libraries.

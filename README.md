@@ -1,6 +1,6 @@
 # GlucoSense: AI-Powered Diabetes Detection for Early Intervention
 
-<h2>Overview</h2>
+<h2> Overview </h2>
 
 GlucoSense is an innovative, AI-driven platform developed to enable early detection of diabetes, offering a proactive approach to managing this chronic condition. By analyzing a wide range of health metrics—such as age, gender, symptom history, and other vital indicators—GlucoSense quickly identifies potential diabetes cases, often before traditional symptoms become apparent. With its machine learning algorithms, GlucoSense adapts to new data, increasing accuracy over time and providing personalized insights that support healthcare providers and patients in making timely decisions. The goal is to empower early intervention, which can significantly improve long-term outcomes and reduce complications associated with diabetes.
 
@@ -19,7 +19,7 @@ GlucoSense is an innovative, AI-driven platform developed to enable early detect
 4. **Balanced Dataset Handling:** Implements techniques like oversampling to handle any imbalances in diabetes-positive and negative cases.
 5. **Evaluation Metrics:** Uses metrics such as accuracy, precision, recall, and F1-score to evaluate model performance and ensure high reliability.
 
-<h2>Dataset</h2>
+<h2> Dataset </h2>
 
 The dataset includes a variety of health indicators, including:
 
@@ -41,7 +41,7 @@ The dataset includes a variety of health indicators, including:
 - Obesity
 - Diabetes Status (Target Variable)
 
-<h2>Setup and Requirements</h2>
+<h2> Setup and Requirements </h2>
 
 To run this project locally, ensure you have the following dependencies installed:
 
@@ -50,3 +50,6 @@ To run this project locally, ensure you have the following dependencies installe
 - NumPy: For numerical computations
 - Matplotlib and Seaborn: For data visualization
 - Scikit-learn: For machine learning algorithms and evaluation metrics
+
+<h2> License </h2>
+This project is licensed under the <b> MIT License </b>. 
